@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700;800&family=Mr+Dafoe&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background: #0a0b10;
+  color: #fff;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+section {
+  scroll-margin-top: 90px;
+}
+
+#app {
+  background: #0a0b10;
+  min-height: 100vh;
+}
+
+.font-title {
+  font-family: 'Bebas Neue', Inter, sans-serif;
+}
+
+.font-signature {
+  font-family: 'Mr Dafoe', cursive;
+}
+
+.font-stroke {
+  text-shadow:
+    -1px -1px 0 #ffffff,
+    1px -1px 0 #ffffff,
+    -1px 1px 0 #ffffff,
+    1px 1px 0 #ffffff,
+    0 0 6px rgba(255, 255, 255, 0.3);
+  color: #0a0b10;
+}
