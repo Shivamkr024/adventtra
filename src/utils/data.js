@@ -61,7 +61,7 @@ export const experienceNotes = [
 export const projects = [
   { name: 'Creative Outdoor shoot ', logo: '#1', video: '/videos/1.mp4' },
   { name: 'Creative Outdoor shoot ', logo: '#2', video: '/videos/2.mp4' },
-  { name: 'Interior work', logo: '❤️❤️❤️', video: '/videos/3.MP4' },
+  { name: 'Interior work', logo: '❤️❤️❤️', video: '/videos/3.mp4' },
   { name: 'Astrology Part', logo: '🐤', video: '/videos/4.MP4' },
   { name: 'Real estate Work', logo: '🎬', video: '/videos/5.mp4' },
   { name: 'Real estate Work', logo: '🎬', video: '/videos/12.mp4' },
