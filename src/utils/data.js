@@ -24,25 +24,9 @@ export const software = [
     bg: '#032b64',
   },
   {
-    label: 'Branding',
-    logo: 'https://cdn.simpleicons.org/brandfolder',
-    bg: '#631034',
-  },
-  {
-    label: 'Website',
-    logo: 'https://cdn.simpleicons.org/react',
-    bg: '#5e2402',
-  },
-  {
     label: 'Leads',
     logo: 'https://cdn.simpleicons.org/meta',
     bg: '#003564',
-  },
-  {
-    label: 'Growth',
-    logo: 'https://cdn.simpleicons.org/googlegemini',
-    bg: '#f1f1f1',
-    color: '#111111',
   },
 ]
 
